@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **sandani0310/sandani0310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Picture1](https://user-images.githubusercontent.com/79821277/133738545-60179c18-c6ba-4e1e-ab44-b8c368e49498.png)
